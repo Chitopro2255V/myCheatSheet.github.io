@@ -1,0 +1,26 @@
+body {
+    background-color: aqua;
+    font-family: sans-serif;
+} table {
+    border-collapse: collapse;
+    border: 2px solid rgb(0, 0, 0);
+    font-family: sans-serif;
+    font-size: 0.8rem;
+    letter-spacing: 1px;
+    margin-left: auto;
+    margin-right: auto;
+  } th, td {
+    border: 2px solid rgb(0, 0, 0);
+    padding: 8px 10px;
+    
+  } #dopex {
+    text-align: center;
+  } thead{
+    background-color: rgb(228 240 245);
+  } tbody {
+    background-color: rgb(159, 159, 255);
+  } tfoot {
+    text-align: center;
+    font-size: 25px;
+  }
+  
